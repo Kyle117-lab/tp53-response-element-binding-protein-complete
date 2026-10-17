@@ -1,0 +1,10 @@
+protein_chain	protein_residue	protein_number	protein_atom	dna_chain	dna_residue	dna_number	dna_atom	distance_A	note
+A	ARG	88	NH2	C	DG	13	O6	3.380	atom_distance_only
+A	ARG	103	NH1	B	DG	3	O6	3.037	atom_distance_only
+D	ARG	88	NH2	B	DG	13	O6	3.275	atom_distance_only
+D	ARG	103	NH1	C	DG	3	O6	3.337	atom_distance_only
+A	SER	106	OG	C	DT	16	O4	3.074	atom_distance_only
+D	SER	106	OG	B	DT	16	O4	2.893	atom_distance_only
+A	LYS	115	NZ	C	DT	16	OP1	2.320	unusually_short_review
+D	LYS	115	NZ	B	DT	16	OP1	2.424	unusually_short_review
+A	ASN	62	ND2	B	DA	5	O3'	3.409	atom_distance_only

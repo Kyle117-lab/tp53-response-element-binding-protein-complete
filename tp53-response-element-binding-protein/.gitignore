@@ -1,0 +1,17 @@
+# Generated outputs, logs, and large model checkpoints
+outputs/
+weights/*
+!weights/README.md
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.venv/
+.env
+.env.*
+*.ckpt
+*.pt
+*.pth
+*.safetensors
+*.cif.gz
+*.tar.gz
+.DS_Store

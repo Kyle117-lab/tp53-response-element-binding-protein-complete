@@ -1,0 +1,9 @@
+protein_chain	protein_residue	protein_atom	dna_chain	dna_residue	dna_atom	distance_A	contact_class	verification
+A	ARG88	NH2	C	DG13	O6	3.381	base-associated	prior_project_log_summary_not_verified_from_final_CIF
+A	ARG103	NH1	B	DG3	O6	3.037	base-associated	prior_project_log_summary_not_verified_from_final_CIF
+D	ARG88	NH2	B	DG13	O6	3.275	base-associated	prior_project_log_summary_not_verified_from_final_CIF
+D	ARG103	NH1	C	DG3	O6	3.336	base-associated	prior_project_log_summary_not_verified_from_final_CIF
+A	SER106	OG	C	DT16	O4	3.074	base-associated	prior_project_log_summary_not_verified_from_final_CIF
+D	SER106	OG	B	DT16	O4	2.893	base-associated	prior_project_log_summary_not_verified_from_final_CIF
+A	LYS115	NZ	C	DT16	OP1	2.320	phosphate	prior_project_log_summary_short_distance_review_needed
+D	LYS115	NZ	B	DT16	OP1	2.424	phosphate	prior_project_log_summary_short_distance_review_needed

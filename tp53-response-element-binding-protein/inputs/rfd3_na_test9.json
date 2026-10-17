@@ -1,0 +1,16 @@
+{
+  "dsDNA_3KMD_fullDNA_fixed_A118_124_two_p53_motifs": {
+    "input": "inputs/3KMD.pdb",
+    "contig": "E1-19,/0,F1-19,/0,A118-124,25-45,A241-248,10-20,A273-285,20-35",
+    "length": "121-166",
+    "select_fixed_atoms": {
+      "E1-19": "ALL",
+      "F1-19": "ALL",
+      "A118-124": "ALL",
+      "A241-248": "ALL",
+      "A273-285": "ALL"
+    },
+    "ori_token": [-16.4, -13.7, -32.6],
+    "is_non_loopy": true
+  }
+}

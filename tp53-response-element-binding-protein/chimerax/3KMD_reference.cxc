@@ -1,0 +1,15 @@
+# Run from repository root in a new ChimeraX session.
+open inputs/3KMD.pdb
+set bgColor white
+graphics silhouettes true
+hide atoms
+show cartoons
+color /A #00FF00
+color /B cyan
+color /C #FF69B4
+color /D yellow
+hide /E,F cartoons
+show /E,F atoms
+style /E,F stick
+color /E,F #556B2F
+view

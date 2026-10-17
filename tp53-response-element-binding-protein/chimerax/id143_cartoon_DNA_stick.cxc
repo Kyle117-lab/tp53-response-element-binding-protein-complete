@@ -1,0 +1,23 @@
+# Run from repository root in a new ChimeraX session.
+open results/structures/id143_design_complex.pdb
+set bgColor white
+graphics silhouettes true
+hide atoms
+show cartoons
+color /A cyan
+color /D yellow
+hide /B,C cartoons
+show /B,C atoms
+style /B,C stick
+color /B,C #556B2F
+show /A:88,103,106,115 atoms
+show /D:88,103,106,115 atoms
+style /A:88,103,106,115 stick
+style /D:88,103,106,115 stick
+color /A:88,103,106,115 cyan
+color /D:88,103,106,115 yellow
+color /A:88,103,106,115@O* red
+color /D:88,103,106,115@O* red
+color /A:88,103,106,115@N* blue
+color /D:88,103,106,115@N* blue
+view

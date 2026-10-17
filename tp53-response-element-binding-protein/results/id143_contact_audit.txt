@@ -1,0 +1,13 @@
+Final model: results/structures/id143_design_complex.pdb
+Source: uploaded 143(1).pdb
+SHA256: 9a95410ba799919a888f8ced8880b1b56ee12aa7c26fa571ee0c68241154a7fc
+Protein chain A: 123 residues; D: 123 residues; sequences identical.
+DNA chain B: 20 nucleotides; C: 20 nucleotides; sequences identical.
+DNA 5to3 sequences: GGGCATGCCTAGGCATGCCC
+Heavy-atom protein-DNA proximity cutoff: 3.6 A
+Total atom proximity pairs at cutoff: 464
+Warning: 42 pair(s) < 2.2 A potentially clashing
+Warning: 20 pair(s) 2.2-2.5 A short contact requiring review
+This computation does not establish hydrogen bonding or binding affinity.
+Original deposited PDB includes no Boltz confidence JSON. Scores in reported tables have separate provenance.
+Earlier poster LYS115 vs DNA 1.469 A label could not be identified as the originally listed LYS115 NZ–DT16 OP1 contact: A115 -> C16=2.320 A; D115 -> B16=2.424 A. Figure measurements must be checked against explicitly named atoms.
